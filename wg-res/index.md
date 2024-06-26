@@ -124,7 +124,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [微博合集 #7](archive/res-archive-wb-2022.md) (2022.Jan-2022.Dec)
 
-[微博合集 #8](archive/res-archive-wb-2023.md) (2023.Jan-)
+[微博合集 #8](archive/res-archive-wb-2023-2024.md) (2023.Jan-)
 
 ## 转载资料
 
